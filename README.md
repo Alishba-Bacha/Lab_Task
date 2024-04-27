@@ -14,3 +14,4 @@ I am using Titanic dataset, which is based on the infamous Titanic ship, specifi
 
 Main part of the task is to improve the accuracy of a model already eavaluated, through linux commands. 
 Accuracy before improvement: 0.8119
+As the accuracy is already very much so by using any other model evaluation technique it's accuracy decreases.
