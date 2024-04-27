@@ -11,3 +11,6 @@ By definition, machine learning can be defined as a complex process of learning 
 In this kernel, I have explained how to perform classification task using semi supervised learning approach. This approach makes use of autoencoders to learn the representation of the data then a simple linear classifier is trained to classify the dataset into respective classes.
 Using Semi Supervised Learning:
 I am using Titanic dataset, which is based on the infamous Titanic ship, specifically, data about its passengers. This dataset is a classic in the data science world, often used for training and learning purposes. It contains information about the passengers who were onboard the Titanic, including details such as their age, sex, class, and importantly, whether they survived or not.
+
+Main part of the task is to improve the accuracy of a model already eavaluated, through linux commands. 
+Accuracy before improvement: 0.8119
